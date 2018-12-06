@@ -1,7 +1,7 @@
 package net.duan.felix.triptrack
 
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import net.duan.felix.triptrack.ui.MainFragment
 
 class MainActivity : AppCompatActivity() {

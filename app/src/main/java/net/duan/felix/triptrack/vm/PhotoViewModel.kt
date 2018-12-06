@@ -1,7 +1,7 @@
 package net.duan.felix.triptrack.vm
 
-import android.arch.lifecycle.MutableLiveData
-import android.arch.lifecycle.ViewModel
+import androidx.lifecycle.MutableLiveData
+import androidx.lifecycle.ViewModel
 import net.duan.felix.triptrack.data.Photo
 
 class PhotoViewModel : ViewModel() {
